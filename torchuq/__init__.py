@@ -129,7 +129,6 @@ def _check_valid(predictions, ptype):
 
         
         
-from . import dataset
 from . import evaluate
 from . import transform
 from . import models 
